@@ -1,0 +1,16 @@
+{
+    "name": "gulp-server",
+    "version": "1.0.0",
+    "description": "解放F5 Gulp本地服务器",
+    "main": "Gulpfile.js",
+    "scripts": {
+        "start": "gulp server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "fezzc",
+    "license": "ISC",
+    "dependencies": {
+        "browser-sync": "^2.23.6",
+        "gulp": "^3.9.1"
+    }
+}
